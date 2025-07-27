@@ -464,7 +464,7 @@ ${message}
 
 ---
 تم إرسال هذا الطلب من موقع الاتحاد للتصميمات والاستشارات الهندسية
-https://united-engineering.com`;
+https://seifadelsaad.github.io/cocg/`;
 }
 
 // إظهار رسالة نجاح محسنة
